@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I'm currently a Research Scientist in the [Skeletal Biology](https://yanglab.vai.org) led by Dr. Tao Yang at [Van Andel Institute](https://www.vai.org/).
 
-I use R, shell scripting, and more to process omics data to understanding skeletal health and disease with primarily focused on articular knee cartilage in relation to osteoarthritis.
+I use R, shell scripting, and more to process omics data to understanding skeletal health and disease with primarily focused on articular knee cartilage in osteoarthritis.
 
 My research in epigenetic profiling of human osteoarthritis is encapsulated in the publication titled, ['Chromatin Accessibility Landscape of Articular Knee Cartilage Reveals Aberrant Enhancer Regulation in Osteoarthritis'](https://www.nature.com/articles/s41598-018-33779-z). I also contributed the data analysis of study titled ['TRIM28 secures skeletal stem cell fate during skeletogenesis by silencing neural gene expression and repressing GREM1/AKT/mTOR signaling axis'](https://pubmed.ncbi.nlm.nih.gov/36680774/),which investigates how loss of TRIM28 in mesoderm-derived skeletal progenitor/stem cells leads to expanded stem cell pools and ectoderm-like properties, resulting in significant defects in skeletogenesis, and study titled ['The histone demethylase KDM5C controls female bone mass by promoting energy metabolism in osteoclasts'](https://www.science.org/doi/10.1126/sciadv.adg0731),which demonstrates that KDM5C regulates sex-specific bone mass and osteoclast metabolism, highlighting its potential as a therapeutic target for osteoporosis in women. 
 
