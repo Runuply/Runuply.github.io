@@ -1,21 +1,28 @@
 ---
 title: "Ye Liu Ph.D."
+author: "Dr. Ye Liu"
 image: "yeliu.jpg"
-links:
-- label: LinkedIn
-  url: "https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin"
-- label: GitHub
-  url: "https://github.com/Runuply"
-- label: Email
-  url: "liuye19880607@gmail.com"
-output:
+output: 
   html_document:
     df_print: paged
+    theme: cerulean
+    highlight: tango
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## About Me
+
+Welcome to my bio webpage!
+
+![Profile Image](yeliu.jpg)
+
+### Links
+- [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
+- [GitHub](https://github.com/Runuply)
+- [Email](mailto:liuye19880607@gmail.com)
 
 ## Bio
 
