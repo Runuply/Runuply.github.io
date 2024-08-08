@@ -4,6 +4,8 @@ image: "yeliu.jpg"
 links:
   - label: GitHub
     url: "https://github.com/Runuply"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=18SiBfUAAAAJ&hl=en&authuser=1"  
   - label: Email
     url: "mailto:liuye19880607@gmail.com"
 output:
@@ -78,3 +80,37 @@ My research in epigenetic profiling of human osteoarthritis is encapsulated in t
 8. Liu Y, Chang JC, Hon CC, Fukui N, Tanaka N, Zhang Z, Lee MTM, Minoda A. Chromatin accessibility landscape of articular knee cartilage reveals aberrant enhancer regulation in osteoarthritis. *Scientific Reports* 8 (1), 15499 (2018).
 9. Oh E, Garg S, Liu Y, Gao R, Yun CO, Kaul SC, Wadhwa R. Identification and Functional Characterization of Anti-metastasis and Anti-angiogenic Activities of Triethylene Glycol Derivatives. *Front
 
+## Personal Achievements
+
+**04/23/2023**: Glass City Owens Corning Half Marathon, Toledo, Ohio  
+- **Time**: 2:12:00.4  
+- **Pace**: 10:05/mile  
+- **Place**: 1168th of 2068  
+
+**05/13/2023**: Amway Riverbank Run 10K, Grand Rapids, Michigan  
+- **Time**: 52:02.9  
+- **Pace**: 8:23/mile  
+- **Place**: 276th of 1796  
+
+**08/12/2023**: Mill Creek Days 5K, Comstock Park, Michigan  
+- **Time**: 25:26.3  
+- **Pace**: 8:11/mile  
+- **Place**: 31st of 118  
+
+**07/30/2023**: Global Water Festival GR 2023, Dragon Boat Races, Grand Rapids, Michigan  
+- **Result**: Team 3rd place of 12 teams  
+
+**08/19/2023**: GRAPF 5K Fun Run and Walk, Grand Rapids, Michigan  
+- **Time**: 25:04  
+- **Pace**: 7:58/mile  
+- **Award**: Personal 3rd place award  
+
+**10/15/2023**: 20th Annual 2023 Grand Rapids Marathon, Grand Rapids, Michigan  
+- **Time**: 4:48:07.6  
+- **Pace**: 11:00/mile  
+- **Place**: 649th of 944  
+
+**05/11/2024**: Amway Riverbank Run 25K, Grand Rapids, Michigan  
+- **Time**: 2:34:57.89  
+- **Pace**: 9:59/mile  
+- **Place**: 1777th of 2478  
