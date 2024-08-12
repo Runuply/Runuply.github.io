@@ -1,5 +1,5 @@
 ---
-title: "Ye Liu Ph.D"
+title: "Ye Liu Ph.D."
 image: "yeliu.jpg"
 links:
   - label: GitHub
