@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## Bio
+# Bio
 
 I'm currently a Research Scientist in the [Skeletal Biology](https://yanglab.vai.org) led by Dr. Tao Yang at [Van Andel Institute](https://www.vai.org/).
 
