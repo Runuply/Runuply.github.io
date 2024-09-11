@@ -67,7 +67,7 @@ My research on the epigenetic profiling of human osteoarthritis is encapsulated 
 
 # Peer-Reviewed Publications
 
-1.	Liu Y, Molchanov V, Zhao Y, Lu D, Liu H, Jang HJ, Yang T. H3K9me3 loss and ERV activation as hallmarks for osteoarthritis progression and knee joint aging. *Osteoarthritis and Cartilage* (2024). Accepted.
+1.	Liu Y, Molchanov V, Zhao Y, Lu D, Liu H, Jang HJ, Yang T. H3K9me3 loss and ERV activation as hallmarks for osteoarthritis progression and knee joint aging. *Osteoarthritis and Cartilage* (2024).
 2.	Liu H, Liu Y, Jin SG, Johnson J, Xuan H, Lu D, Li J, Zhai L, Li X, Zhao Y, Liu M, Craig SEL, Floramo JS, Molchanov V, Li J, Li JD, Krawczyk C, Shi X, Pfeifer GP, Yang T. TRIM28 secures skeletal stem cell fate during skeletogenesis by silencing neural gene expression and repressing GREM1/AKT/mTOR signaling axis. *Cell Reports* 42 (1), 112012 (2023).
 3.	Liu H, Zhai L, Liu Y, Lu D, Ark AV, Yang T, Krawczyk CM. KDM5C controls female bone mass by promoting energy metabolism in osteoclasts. *Science Advances* 9, eadg0731 (2023).
 4.	Floramo JS, Molchanov V, Liu H, Liu Y, Craig SEL, Yang T. An Integrated View of Stressors as Causative Agents in OA Pathogenesis. *Biomolecules* 13 (5), 721 (2023).
