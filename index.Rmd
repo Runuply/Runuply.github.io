@@ -23,7 +23,7 @@ I'm currently a Research Scientist in the [Skeletal Biology](https://yanglab.vai
 
 I use R, shell scripting, and more to process omics data to understanding skeletal health and disease with primarily focused on articular knee cartilage in osteoarthritis.
 
-My research on the epigenetic profiling of human osteoarthritis is encapsulated in the publication titled ['Chromatin Accessibility Landscape of Articular Knee Cartilage Reveals Aberrant Enhancer Regulation in Osteoarthritis'](https://www.nature.com/articles/s41598-018-33779-z). As a follow-up study, I have published a paper titled "H3K9me3 loss and ERV activation as hallmarks for osteoarthritis progression and knee joint aging" in *Osteoarthritis and Cartilage*. This study emphasizes the potential of targeting H3K9me3 levels or specific ERV families to mitigate OA progression by restoring chromatin stability and reducing inflammation, offering promising therapeutic approaches for managing OA. I also contributed the data analysis of study titled ['TRIM28 secures skeletal stem cell fate during skeletogenesis by silencing neural gene expression and repressing GREM1/AKT/mTOR signaling axis'](https://pubmed.ncbi.nlm.nih.gov/36680774/), which investigates how loss of TRIM28 in mesoderm-derived skeletal progenitor/stem cells leads to expanded stem cell pools and ectoderm-like properties, resulting in significant defects in skeletogenesis, and study titled ['The histone demethylase KDM5C controls female bone mass by promoting energy metabolism in osteoclasts'](https://www.science.org/doi/10.1126/sciadv.adg0731), which demonstrates that KDM5C regulates sex-specific bone mass and osteoclast metabolism, highlighting its potential as a therapeutic target for osteoporosis in women. 
+My research on the epigenetic profiling of human osteoarthritis is encapsulated in the publication titled ['Chromatin Accessibility Landscape of Articular Knee Cartilage Reveals Aberrant Enhancer Regulation in Osteoarthritis'](https://www.nature.com/articles/s41598-018-33779-z). As a follow-up study, I have published a paper titled ['H3K9me3 loss and ERV activation as hallmarks for osteoarthritis progression and knee joint aging'](https://www.oarsijournal.com/article/S1063-4584(24)01353-0/abstract) in *Osteoarthritis and Cartilage*. This study emphasizes the potential of targeting H3K9me3 levels or specific ERV families to mitigate OA progression by restoring chromatin stability and reducing inflammation, offering promising therapeutic approaches for managing OA. I also contributed the data analysis of study titled ['TRIM28 secures skeletal stem cell fate during skeletogenesis by silencing neural gene expression and repressing GREM1/AKT/mTOR signaling axis'](https://pubmed.ncbi.nlm.nih.gov/36680774/), which investigates how loss of TRIM28 in mesoderm-derived skeletal progenitor/stem cells leads to expanded stem cell pools and ectoderm-like properties, resulting in significant defects in skeletogenesis, and study titled ['The histone demethylase KDM5C controls female bone mass by promoting energy metabolism in osteoclasts'](https://www.science.org/doi/10.1126/sciadv.adg0731), which demonstrates that KDM5C regulates sex-specific bone mass and osteoclast metabolism, highlighting its potential as a therapeutic target for osteoporosis in women. 
 
 
 # Education and Research Experience
@@ -98,17 +98,27 @@ My research on the epigenetic profiling of human osteoarthritis is encapsulated 
 
 # Peer Review Activities
 
-- Genome Biology (2024)
-- IJMS (2024)
-- BMC Musculoskeletal Disorders (2024)
-- Nature Communications (2024)
-- Antioxidants (2024)
-- Medicina (2024)
-- Healthcare (2024)
-- Nutrients (2024)
-- Cancers (2023)
-- Cells (2023)
-- Pakistan Journal of Pharmaceutical Sciences (2022)
+- [Animals](https://www.mdpi.com/journal/animals) (2023)
+- [Antioxidants](https://www.mdpi.com/journal/antioxidants) (2024)
+- [Biology](https://www.mdpi.com/journal/biology) (2024)
+- [Biomedicines](https://www.mdpi.com/journal/biomedicines) (2023)
+- [Biomolecules](https://www.mdpi.com/journal/biomolecules) (2023)
+- [BMC Musculoskeletal Disorders](https://bmcmusculoskeletdisord.biomedcentral.com) (2024)
+- [Cancers](https://www.mdpi.com/journal/cancers) (2023)
+- [Cells](https://www.mdpi.com/journal/cells) (2023)
+- [Current Issues in Molecular Biology](https://www.mdpi.com/journal/cimb) (2023-2024)
+- [Frontiers in Cellular and Infection Microbiology](https://www.frontiersin.org/journals/cellular-and-infection-microbiology) (2023)
+- [Genes](https://www.mdpi.com/journal/genes) (2023)
+- [Genome Biology](https://genomebiology.biomedcentral.com) (2024)
+- [Healthcare](https://www.mdpi.com/journal/healthcare) (2024)
+- [International Journal of Molecular Sciences](https://www.mdpi.com/journal/ijms) (2023-2024)
+- [Journal of Clinical Medicine](https://www.mdpi.com/journal/jcm) (2023)
+- [Medicina](https://www.mdpi.com/journal/medicina) (2024)
+- [Molecules](https://www.mdpi.com/journal/molecules) (2023)
+- [Nature Communications](https://www.nature.com/ncomms/) (2024)
+- [Nutrients](https://www.mdpi.com/journal/nutrients) (2024)
+- [Pakistan Journal of Pharmaceutical Sciences](https://www.pjps.pk/home) (2022)
+
 
 # Personal Achievements
 
