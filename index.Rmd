@@ -1,6 +1,6 @@
 ---
 title: "Ye Liu Ph.D."
-image: "yeliu.jpg"
+image: "yeliu.png"
 links:
   - label: GitHub
     url: "https://github.com/Runuply"
