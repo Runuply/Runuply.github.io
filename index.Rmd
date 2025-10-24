@@ -1,15 +1,15 @@
 ---
-title: "Ye Liu Ph.D."
+title: "Ye Liu, Ph.D."
 image: "yeliu.png"
 links:
   - label: GitHub
     url: "https://github.com/Runuply"
   - label: Google Scholar
-    url: "https://scholar.google.com/citations?user=18SiBfUAAAAJ&hl=en&authuser=1"  
+    url: "https://scholar.google.com/citations?user=18SiBfUAAAAJ"
   - label: Email
     url: "mailto:liuye19880607@gmail.com"
 output:
-  postcards::trestles
+  postcards::jolla
 ---
 
 ```{r setup, include=FALSE}
